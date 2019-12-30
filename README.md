@@ -27,6 +27,9 @@ python astcreator <path to directory to search>
 
 # running in other directory
 python <path to astcreator> <path to directory to search>
+
+# example
+python ./astcreator ../../myPythonProject
 ```
 
 Testing
